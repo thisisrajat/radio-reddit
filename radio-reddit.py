@@ -1,6 +1,6 @@
 from sys import argv, exit
 import os, subprocess, signal
-
+from path_handlers import LINUX_BASE_OS, WINDOWS_BASE_OS
 
 # Global Declarations
 
@@ -15,13 +15,6 @@ station_dictionary = {
 # What all stations you can listen to
 
 permissible_names = ['metal', 'random', 'rock', 'indie', 'main']
-
-# Process Name for Windows and Linux
-
-LINUX_BASE_OS = 'mplayer'
-
-WINDOWS_BASE_OS = 'C:/Program Files (x86)/VideoLAN/VLC/vlc.exe'
-
 
 
 # Main Program logic
