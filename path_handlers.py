@@ -26,5 +26,5 @@ LINUX_BASE_OS = 'mplayer'
 '''
 
 
-WINDOWS_BASE_OS = 'C:/Proram Files (x86)/VideoLAN/VLC/'
+WINDOWS_BASE_OS = 'C:/Program Files (x86)/VideoLAN/VLC/'
 WINDOWS_BASE_OS += 'vlc.exe'
