@@ -1,6 +1,6 @@
 ### Radio Reddit
 
-__ How to use this script? __
+  __How to use this script?__ 
 
   Open Terminal or equivalently Command Prompt on Windows and run execute the following:
 
@@ -14,6 +14,6 @@ __ How to use this script? __
 
 ####Todo
 
- [] Create shorthand for station names. Who want to type all..
- [] Handle more errors, like the WindowsError with VLC's path. 
- [] Take music player name or path (for windows guys) and stream radio on it :smile:
+ * Create shorthand for station names. Who want to type all..
+ * Handle more errors, like the WindowsError with VLC's path. 
+ * Take music player name or path (for windows guys) and stream radio on it :smile:
