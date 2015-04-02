@@ -2,7 +2,7 @@
 
   __How to use this script?__ 
 
-  Open Terminal or equivalently Command Prompt on Windows and run execute the following:
+  Open Terminal or equivalent Cmd on Windows and run the following command:
 
   ```
     $ python radio-reddit.py [ station name ]
@@ -14,6 +14,6 @@
 
 ####Todo
 
- * Create shorthand for station names. Who want to type all..
+ * Create shorthand for station names. Who want to type it all..
  * Handle more errors, like the WindowsError with VLC's path. 
  * Take music player name or path (for windows guys) and stream radio on it :smile:
